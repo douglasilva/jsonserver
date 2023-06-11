@@ -1,37 +1,37 @@
 {
-	"todayClocks": [
-		{
-			"hasNext": false,
-			"items": [
-				{
-					"date": "2023-06-09T00:00:00Z",
-					"hour": 28980000.0,
-					"latitude": "-19.9999763",
-					"longitude": "-43.8961286",
-					"direction": "entry"
-				},
-				{
-					"date": "2023-06-09T00:00:00Z",
-					"hour": 43620000.0,
-					"latitude": "-19.9998742",
-					"longitude": "-43.8961405",
-					"direction": "exit"
-				},
-				{
-					"date": "2023-06-09T00:00:00Z",
-					"hour": 49080000.0,
-					"latitude": "-19.9998783",
-					"longitude": "-43.8961412",
-					"direction": "entry"
-				},
-				{
-					"date": "2023-06-09T00:00:00Z",
-					"hour": 63600000.0,
-					"latitude": "-19.9998776",
-					"longitude": "-43.896197",
-					"direction": "exit"
-				}
-			]
-		}
-	]
+	"todayClocks": 
+    {
+        "hasNext": false,
+        "items": [
+            {
+                "date": "2023-06-09T00:00:00Z",
+                "hour": 28980000.0,
+                "latitude": "-19.9999763",
+                "longitude": "-43.8961286",
+                "direction": "entry"
+            },
+            {
+                "date": "2023-06-09T00:00:00Z",
+                "hour": 43620000.0,
+                "latitude": "-19.9998742",
+                "longitude": "-43.8961405",
+                "direction": "exit"
+            },
+            {
+                "date": "2023-06-09T00:00:00Z",
+                "hour": 49080000.0,
+                "latitude": "-19.9998783",
+                "longitude": "-43.8961412",
+                "direction": "entry"
+            },
+            {
+                "date": "2023-06-09T00:00:00Z",
+                "hour": 63600000.0,
+                "latitude": "-19.9998776",
+                "longitude": "-43.896197",
+                "direction": "exit"
+            }
+        ]
+    }
+
 }
